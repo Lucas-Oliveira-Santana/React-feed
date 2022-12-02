@@ -32,3 +32,9 @@ https://github.com/Lucas-Oliveira-Santana/React-feed.git
   
   ## In your browser ( Local )
 Once the application is set up, you will be able to access in your browser to http://localhost:5173
+
+ ## Technologies used
+- [Javascript](https://www.javascript.com/)
+- [ReactJs](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [date-fns](https://date-fns.org/)
